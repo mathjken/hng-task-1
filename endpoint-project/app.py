@@ -14,7 +14,7 @@ def get_info():
         "slack_name": Johnkennedy,
         "current_day": current_day,
         "utc_time": utc_time,
-        "track": track,
+        "track": backend,
         "github_file_url": "https://github.com/mathjken/hng-task-1/blob/main/endpoint-project/app.py",
         "github_repo_url": "https://github.com/mathjken/hng-task-1",
         "status_code": 200
