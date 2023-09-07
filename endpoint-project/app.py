@@ -15,8 +15,8 @@ def get_info():
         "current_day": current_day,
         "utc_time": utc_time,
         "track": track,
-        "github_file_url": "https://github.com/username/repo/blob/main/file_name.ext",
-        "github_repo_url": "https://github.com/username/repo",
+        "github_file_url": "https://github.com/mathjken/hng-task-1/blob/main/endpoint-project/app.py",
+        "github_repo_url": "https://github.com/mathjken/hng-task-1",
         "status_code": 200
     }
 
