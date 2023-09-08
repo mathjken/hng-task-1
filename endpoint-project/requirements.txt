@@ -22,6 +22,7 @@ filelock==3.11.0
 Flask==2.0.1
 flask-babel==3.1.0
 greenlet==2.0.2
+gunicorn==20.1.0
 gyp==0.1
 httplib2==0.20.2
 idna==3.4
